@@ -47,6 +47,9 @@ var filesToCache = [
   '/assets/sounds/sfx_swooshing.ogg',
   '/assets/sounds/sfx_hit.ogg',
   '/assets/sounds/sfx_die.ogg',
+  '/assets/flappy_bird_144px.png',
+  '/assets/flappy_bird_192px.png',
+  '/assets/flappy_bird_512px.png'
 ];
 
 self.addEventListener('install', function(event) {
