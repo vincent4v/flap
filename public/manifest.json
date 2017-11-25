@@ -1,0 +1,16 @@
+{
+    "short_name": "PWA Flap",
+    "name": "Progressive Web App Flappy Bird",
+    "icons": [
+      {
+        "src":"assets/flappy_bird_144px.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#4EC0CA",
+    "theme_color": "#4EC0CA",
+    "display": "fullscreen"
+  }
+  
